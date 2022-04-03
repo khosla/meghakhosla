@@ -1,10 +1,6 @@
 ## Assistant Professor @ TU Delft
 
-I am an assistant professor at the Delft University of Technology. My research interests are Graph representation learning.
-
-You can use the [editor on GitHub](https://github.com/khosla/meghakhosla/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an Assistant Professor in the Multimedia Computing Group in the Intelligent Systems Department. My primary area of research is machine learning on graph structured data. Specifically, I develop algorithms to enable **effective**, **interpretable**, and **privacy preserving learning** on graphs. Prior to my being a faculty member at TUD, I was a senior research at the L3S Research Centre, and the Leibniz University Hannover. I have also managed several collaborative projects both in Academia and in the industry where I spent a three-year stint after my PhD. I completed my PhD from the Max Planck Institute for Informatics (MPII), in Algorithms and the Complexity group, Saarbruecken, Germany.
 
 ### Markdown
 
